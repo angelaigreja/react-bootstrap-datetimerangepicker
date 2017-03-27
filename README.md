@@ -1,3 +1,7 @@
+This is just a fork of [react-bootstrap-datetimerangepicker](https://github.com/luqin/react-bootstrap-datetimerangepicker) that uses my fork of 
+[bootstrap-daterangepicker](https://github.com/angelaigreja/bootstrap-daterangepicker) that has a fix for the webpack bundle.
+
+
 # React Date&Time Range Picker for Bootstrap
 
 [![NPM version][npm-badge]][npm] [![Build Status][travis-ci-image]][travis-ci-url]

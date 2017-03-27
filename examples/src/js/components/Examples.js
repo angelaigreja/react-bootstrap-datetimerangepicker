@@ -1,4 +1,4 @@
-import 'bootstrap-daterangepicker/daterangepicker.css';
+import 'bootstrap-daterange-picker/daterangepicker.css';
 
 import React from 'react';
 import {

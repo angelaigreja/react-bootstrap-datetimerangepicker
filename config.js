@@ -3,12 +3,12 @@ var path = require('path');
 var taskConfig = {
 
   component: {
-    name: 'react-bootstrap-datetimerangepicker',
+    name: 'react-bootstrap-datetime-range-picker',
     lib: './lib',
     scripts: {
       entry: './src/index.js',
       output: {
-        library: 'react-bootstrap-datetimerangepicker'
+        library: 'react-bootstrap-datetime-range-picker'
       },
       externals: {
         react: {
@@ -27,7 +27,7 @@ var taskConfig = {
     index: 'index.html',
     script: 'js/app.js',
     alias: {
-      'react-bootstrap-datetimerangepicker': path.resolve(__dirname, './src')
+      'react-bootstrap-datetime-range-picker': path.resolve(__dirname, './src')
     },
     files: []
   }
